@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <title>Random Dogs</title>
+  <link rel="stylesheet" href="./doggos.css">
+</head>
+
+<body>
+  <header class="header">
+    <h1>Doggos</h1>
+    
+    <div class="controls">
+      <!-- <button type="button" class="js-addDoggo">Add Doggo</button> -->
+      <div class="select-wrapper">
+        <label for="breedSelect">Choose a breed</label>
+        <select name="breedSelect" id="breedSelect" class="js-breedsList"></select>
+      </div>
+    </div>
+
+  </header>
+
+  <main>
+    <div id="imgWrapper" class="img-wrapper">
+      <h2 id="breedTitle">Corgi</h2>
+      <img class="js-swapBreed" src="http://placecorgi.com/500/300" alt="A cute corgi"/>
+
+      <button id="changeDog" type="button">Show another</button>
+    </div>
+    <div id="spinner" class="spinner show">
+      🦴
+    </div>
+  </main>
+
+  <script src="./doggos.js"></script>
+</body>
+
+</html>

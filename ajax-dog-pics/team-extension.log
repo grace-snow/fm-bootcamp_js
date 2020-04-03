@@ -1,0 +1,4 @@
+2020-04-01T13:34:42.872Z - warn:   [23032] TFVC Couldn't find where the TF command lives on disk.
+2020-04-01T13:34:42.872Z - error:  [23032] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2020-04-01T14:15:30.471Z - warn:   [23032] TFVC Couldn't find where the TF command lives on disk.
+2020-04-01T14:15:30.474Z - error:  [23032] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
