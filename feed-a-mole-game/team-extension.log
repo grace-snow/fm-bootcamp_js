@@ -1,2 +1,6 @@
 2020-04-06T09:39:07.087Z - warn:   [03764] TFVC Couldn't find where the TF command lives on disk.
 2020-04-06T09:39:07.087Z - error:  [03764] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2020-04-14T09:57:05.767Z - warn:   [05700] TFVC Couldn't find where the TF command lives on disk.
+2020-04-14T09:57:05.768Z - error:  [05700] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
+2020-04-16T07:22:33.653Z - warn:   [18564] TFVC Couldn't find where the TF command lives on disk.
+2020-04-16T07:22:33.654Z - error:  [18564] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
