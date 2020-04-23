@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // NOTES FROM https://btholt.github.io/intro-to-web-dev-v2/node
 
 /* EXAMPLE 1 */
@@ -19,14 +21,14 @@ const express = require('express');
 const path = require('path');
 
 const complements = [
-  'You like nice today',
-  'That dress looks nice on you',
-  'Have you been working out?',
-  'You can do hard things',
+  "You like nice today",
+  "That dress looks nice on you",
+  "Have you been working out?",
+  "You can do hard things",
   "You've gotten far in this course. You're really smart",
   "You're programming! How cool is that?",
   "I'm really proud of you",
-  'You made this',
+  "You made this",
   "You've learned a lot of things, and that's pretty hard to do",
 ];
 
